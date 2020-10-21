@@ -1,11 +1,38 @@
 body{
-    background-color: #f9ebe0;
+    background-color: ;
 }
 
 #name-style{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#title-header{
+    margin-bottom: 8px;
+}
+
 #description-font{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 50%;
+    text-align: justify;
+    margin-top: 0;
+}
+
+.description-position{
+    position: absolute;
+    left: 260px;
+    top: 60px;
+}
+
+#photo{
+    float: left;
+    padding: 20px;
+    background-color: #DEE0DE;
+}
+
+.dropdown{
+    clear: both;
+}
+
+.name-position{
+    text-align: center;
 }
